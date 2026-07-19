@@ -8,7 +8,7 @@ It validates the **Full Name**, **Email**, and **Password** fields in real-time 
 > Note: The UI expects Font Awesome classes (`fa-xmark`, `fa-check`) on an `<i class="fa-solid"></i>` element next to each input.
 
 ## Preview
-<image scr="./assets/formValidation.png"></image>
+<image scr="assets/formValidation.png"></image>
 
 ## Demo
 [Demo](assets/formValidation.mp4)
